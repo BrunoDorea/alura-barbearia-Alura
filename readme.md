@@ -3,7 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>
+  <a href="https://brunoh-barbearia-alura.netlify.app/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto"> 🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -18,5 +20,12 @@ Repositorio para os seguintes cursos de HTML e CSS da Alura.
 - HTML5 e CSS3 parte 2: posicionamento,, lista e navegação;
 - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas;
 - HTML5 e CSS3 parte 4: avançando no CSS
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
 
 ---
